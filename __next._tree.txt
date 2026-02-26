@@ -4,4 +4,4 @@
 :HL["/css/plugins.css?v=2","style"]
 :HL["/css/dark.css?v=2","style"]
 :HL["/css/style.css?v=2","style"]
-0:{"buildId":"ifRKAcrEiN3_kIk64uyr2","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"q2cCYsMpV04_r16Uvhr6c","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
